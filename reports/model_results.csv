@@ -1,0 +1,15 @@
+Target,Model,MAE,RMSE,R2
+Enrollments,Baseline (last month),4.0,5.151,-0.962
+Enrollments,Linear Regression,2.806,3.718,-0.022
+Enrollments,Ridge,2.789,3.704,-0.014
+Enrollments,Lasso,2.764,3.666,0.006
+Enrollments,Random Forest,2.848,3.732,-0.03
+Enrollments,Gradient Boosting,2.9,3.874,-0.11
+Revenue,Baseline (last month),349.708,929.52,0.823
+Revenue,Linear Regression,289.74,576.906,0.932
+Revenue,Ridge,288.108,570.899,0.933
+Revenue,Lasso,288.608,575.816,0.932
+Revenue,Random Forest,281.346,673.983,0.907
+Revenue,Gradient Boosting,312.726,683.377,0.904
+Category Revenue,Baseline (last month),1633.575,2514.348,0.821
+Category Revenue,Sum of course predictions,925.04,1465.851,0.939

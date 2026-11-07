@@ -1,0 +1,25 @@
+Month,CourseCategory,ActualRevenue,PredictedRevenue
+2025-11,Artificial Intelligence,20494.99,16559.95
+2025-11,Business,12985.01,15270.23
+2025-11,Cybersecurity,8279.46,4729.66
+2025-11,Data Science,6012.65,6665.29
+2025-11,Design,3869.18,3800.98
+2025-11,Digital Marketing,5313.93,5103.46
+2025-11,Finance,2355.42,2417.12
+2025-11,Machine Learning,7.02,208.9
+2025-11,Marketing,0.0,13.11
+2025-11,Programming,6139.64,6534.4
+2025-11,Project Management,16582.13,13877.87
+2025-11,Web Development,1313.51,1454.03
+2025-12,Artificial Intelligence,15683.13,16488.82
+2025-12,Business,14613.13,15084.19
+2025-12,Cybersecurity,5913.9,4785.49
+2025-12,Data Science,6440.64,6634.61
+2025-12,Design,3316.44,3784.93
+2025-12,Digital Marketing,2550.77,5104.4
+2025-12,Finance,2086.12,2445.75
+2025-12,Machine Learning,8.58,313.25
+2025-12,Marketing,0.0,26.58
+2025-12,Programming,5667.36,6464.31
+2025-12,Project Management,14566.23,13916.34
+2025-12,Web Development,1752.64,1528.27

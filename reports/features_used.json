@@ -1,0 +1,28 @@
+{
+  "cat_cols": [
+    "CourseCategory",
+    "CourseType",
+    "CourseLevel",
+    "PriceBand",
+    "DurationBucket",
+    "RatingTier",
+    "ExperienceBucket"
+  ],
+  "num_cols": [
+    "CoursePrice",
+    "CourseDuration",
+    "CourseRating",
+    "LevelCode",
+    "AvgTeacherRating",
+    "AvgTeacherExperience",
+    "ExpertiseMatchScore",
+    "PastEnrollments",
+    "PastEnrollAvg3",
+    "MonthNumber"
+  ],
+  "removed": [
+    "PastRevenue",
+    "PastRevenueAvg3",
+    "PastRevPerEnroll"
+  ]
+}
