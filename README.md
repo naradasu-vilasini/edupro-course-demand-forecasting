@@ -33,11 +33,11 @@ It predicts monthly course enrollments and revenue for the EduPro online learnin
 Linear Regression, Ridge, Lasso, Random Forest, Gradient Boosting.
 Learned from Feb to Oct 2025 and tested on Nov and Dec 2025.
 
-| Target | Best model | MAE | R2 |
-|---|---|---|---|
-| Enrollments | Lasso | 2.76 | 0.006 |
-| Revenue | Ridge | 288.1 | 0.933 |
-| Category revenue | Sum of course predictions | 925.0 | 0.939 |
+| Target | Best model | MAE | RMSE | R2 |
+|---|---|---|---|---|
+| Enrollments | Lasso | 2.764 | 3.666 | 0.006 |
+| Revenue | Ridge | 288.108 | 570.899 | 0.933 |
+| Category revenue | Sum of course predictions | 925.040 | 1465.851 | 0.939 |
 
 ## Data issues and assumptions
 - Only 60 courses exist, so the model table uses one row per course per month.
